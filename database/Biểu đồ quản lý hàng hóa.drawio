@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.5">
+  <diagram name="Trang-1" id="4qlpktgl40pubahCN4o1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-13" edge="1" parent="1" source="HB-9I5MtGSdxJcuM9Eej-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-17" edge="1" parent="1" source="HB-9I5MtGSdxJcuM9Eej-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-29" edge="1" parent="1" source="HB-9I5MtGSdxJcuM9Eej-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-30" edge="1" parent="1" source="HB-9I5MtGSdxJcuM9Eej-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB-9I5MtGSdxJcuM9Eej-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" value="ACTOR TRONG HỆ THỐNG&lt;div&gt;1. Admin&lt;/div&gt;&lt;div&gt;2. Nhân viên kho&lt;/div&gt;&lt;div&gt;3. Nhân viên giao hàng&lt;/div&gt;&lt;div&gt;4. Khách hàng&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="570" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QUẢN LÝ KHÁCH HÀNG&lt;div&gt;1. Thêm khách hàng&lt;/div&gt;&lt;div&gt;2. Cập nhật thông tin khách hàng&lt;/div&gt;&lt;div&gt;3. Xóa khách hàng&lt;/div&gt;&lt;div&gt;4. Xem danh sách khách hàng&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="50" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QUẢN LÝ ĐƠN HÀNG&lt;div&gt;1. Tạo đơn hàng&lt;/div&gt;&lt;div&gt;2. Cập nhật đơn hàng&lt;/div&gt;&lt;div&gt;3. Hủy đơn hàng&lt;/div&gt;&lt;div&gt;4. Xem danh sách đơn hàng&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="190" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="TẠO ĐƠN HÀNG&lt;div&gt;1. Thêm hàng hóa&lt;/div&gt;&lt;div&gt;2. Cập nhật thông tin hàng&lt;/div&gt;&lt;div&gt;3. Xóa hàng hóa&lt;/div&gt;&lt;div&gt;4. Xem danh sách hàng hóa&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20value%3D%22QU%E1%BA%A2N%20L%C3%9D%20KH%C3%81CH%20H%C3%80NG%26lt%3Bdiv%26gt%3B1.%20Th%C3%AAm%20kh%C3%A1ch%20h%C3%A0ng%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B2.%20C%E1%BA%ADp%20nh%E1%BA%ADt%20th%C3%B4ng%20tin%20kh%C3%A1ch%20h%C3%A0ng%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B3.%20X%C3%B3a%20kh%C3%A1ch%20h%C3%A0ng%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B4.%20Xem%20danh%20s%C3%A1ch%20kh%C3%A1ch%20h%C3%A0ng%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%22120%22%20width%3D%22120%22%20x%3D%22220%22%20y%3D%22370%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="810" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QUẢN LÝ KHO&lt;div&gt;1. Nhập hàng vào kho&lt;/div&gt;&lt;div&gt;2. Xuất hàng khỏi kho&lt;/div&gt;&lt;div&gt;3. Kiểm tra tồn kho&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="510" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-24" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="A8OM0TkpS9UC1VZeYP-S-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QUẢN LÝ GIAO HÀNG&lt;div&gt;1.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quản lý nhân viên giao hàng&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. Quản lý phương tiện vận chuyển&lt;/div&gt;&lt;div&gt;3. Gán lộ trình&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="350" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="THEO DÕI ĐƠN HÀNG&lt;br&gt;&lt;div&gt;1. Cập nhật trạng thái đơn hàng&lt;/div&gt;&lt;div&gt;2. Theo dõi tiến trình giao hàng&lt;/div&gt;&lt;div&gt;3. Tra cứu lịch sử giao hàng&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="950" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QUẢN LÝ NHÂN VIÊN GIAO HÀNG&lt;div&gt;1. Thêm nhân viên&lt;/div&gt;&lt;div&gt;2. Cập nhật thông tin nhân viên&lt;/div&gt;&lt;div&gt;3. Xóa nhân viên&lt;/div&gt;&lt;div&gt;4. Xem danh sách nhân viên&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="280" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="QUẢN LÝ PHƯƠNG TIỆN VẬN CHUYỂN&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Thêm xe&lt;/span&gt;&lt;div&gt;2. Cập nhật thông tin xe&lt;/div&gt;&lt;div&gt;3. Xóa xe&lt;/div&gt;&lt;div&gt;4. Xem danh sách xe&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="430" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-14" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-15" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-12" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" value="KHÁCH HÀNG&lt;br&gt;&lt;div&gt;1. Tạo đơn hàng&lt;/div&gt;&lt;div&gt;2. Theo dõi đơn hàng&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="880" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-18" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-20" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-21" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" value="ADMIN&lt;div&gt;1. Quản lý khách hàng&lt;/div&gt;&lt;div&gt;2. Quản lý đơn hàng&lt;/div&gt;&lt;div&gt;3. Quản lý kho&lt;/div&gt;&lt;div&gt;4. Quản lý giao hàng&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="310" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-19" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="A8OM0TkpS9UC1VZeYP-S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-31" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" value="NHÂN VIÊN KHO&lt;br&gt;&lt;div&gt;1. Nhập/ Xuất kho&lt;/div&gt;&lt;div&gt;2. Kiểm tra tồn kho&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="490" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" value="NHÂN VIÊN GIAO HÀNG&lt;br&gt;&lt;div&gt;1. Nhận đơn hàng&lt;/div&gt;&lt;div&gt;2. Cập nhật trạng thái giao hàng&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="660" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="A8OM0TkpS9UC1VZeYP-S-25" edge="1" parent="1" source="A8OM0TkpS9UC1VZeYP-S-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="A8OM0TkpS9UC1VZeYP-S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
